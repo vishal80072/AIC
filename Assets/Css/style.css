@@ -220,3 +220,24 @@ h5 {
     color: white;
     margin: 10px;
 }
+
+.container hr {
+    background-color: black;
+}
+
+#categories a {
+    background-color: #277D8C;
+    width: 200px;
+    color: white
+}
+
+#categories .nav-item a:active {
+    color: white;
+    background-color: white;
+}
+
+#categories a:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
