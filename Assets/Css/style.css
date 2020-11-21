@@ -243,3 +243,7 @@ h5 {
     color: black;
     border: 1px solid black;
 }
+
+body {
+    overflow-x: hidden;
+}
