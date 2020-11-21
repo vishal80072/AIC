@@ -228,6 +228,8 @@ h5 {
 #categories a {
     background-color: #277D8C;
     width: 200px;
+    padding: 10px;
+    margin: 10px;
     color: white
 }
 
