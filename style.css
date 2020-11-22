@@ -56,6 +56,12 @@ body {
 }
 
 /* End Navbar */
+/* HOME */
+.home img{
+  height:100%;
+  width:100%;
+}
+/* HOME */
 
 /* Latest Events */
 
